@@ -1570,6 +1570,17 @@
     eslint-plugin-react "^7.21.5"
     eslint-plugin-react-hooks "^4.0.0"
 
+"@pancakeswap-libs/uikit@^0.17.0":
+  version "0.17.0"
+  resolved "https://registry.yarnpkg.com/@pancakeswap-libs/uikit/-/uikit-0.17.0.tgz#5bf5eaa1ab0524eff8ce62aa8aba969a9101e89f"
+  integrity sha512-kow53nFTZdHvMMKu8A3fOoLYe4ZnL1edS/5HPxbGVPdavX0F06lL2rZv9MQLhqLNvnMLvipXD+8yyCNiD3Ikzw==
+  dependencies:
+    "@types/lodash" "^4.14.162"
+    "@types/styled-system" "^5.1.10"
+    lodash "^4.17.20"
+    react-transition-group "^4.4.1"
+    styled-system "^5.1.5"
+
 "@pmmmwh/react-refresh-webpack-plugin@^0.4.2":
   version "0.4.3"
   resolved "https://registry.yarnpkg.com/@pmmmwh/react-refresh-webpack-plugin/-/react-refresh-webpack-plugin-0.4.3.tgz#1eec460596d200c0236bf195b078a5d1df89b766"
